@@ -1,23 +1,84 @@
-title: Himani Jaiswal # your name (or website title) here
-logo: "https://media.licdn.com/dms/image/D5635AQE1kZgHybbYBA/profile-framedphoto-shrink_200_200/0/1722524033340?e=1723186800&v=beta&t=bNMnvGzEZ44ZchvZG9G373OxQNgqBr1iJnXjglEqEY4" # your photo (or logo) here
-description: > 
-About
-MY BACKGROUND
-
-As a Data Analyst at Loblaws, I harness my expertise in data analytics, database management, and business intelligence to drive impactful solutions across diverse data projects. 
-My role involves utilizing advanced tools and technologies such as SQL, Snowflake, Excel, Python, Tableau and Power BI to develop and maintain intricate databases, create insightful dashboards, and streamline reporting processes. 
-My hands-on experience includes optimizing inventory management systems, automating marketing reports, and integrating data from various sources to enhance operational efficiency and decision-making.
-
-My professional journey has been defined by a commitment to data integrity, process improvement, and stakeholder collaboration.
-With a passion for transforming data into actionable insights and a strong background in Agile methodologies, I continuously seek opportunities to expand my expertise and contribute to innovative data solutions that drive business success. 
-# your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Himani Jaiswal | Data Analyst | Business Intelligence Expert
+logo: "https://media.licdn.com/dms/image/D5635AQE1kZgHybbYBA/profile-framedphoto-shrink_200_200/0/1722524033340?e=1723186800&v=beta&t=bNMnvGzEZ44ZchvZG9G373OxQNgqBr1iJnXjglEqEY4" # Your professional photo
+description: >
+  Highly motivated and detail-oriented Data Analyst with over 3 years of experience in leveraging advanced data analytics and business intelligence tools. 
+  Proficient in SQL, Python, Power BI, Tableau, and data warehousing technologies like Snowflake and Azure Synapse. Passionate about transforming complex data into actionable insights that drive strategic decision-making, process optimization, and business growth.
+  With a solid background in the banking, retail, and insurance industries, I’ve contributed to major projects at Loblaws and Sunlife Insurance, improving data integrity, creating innovative dashboards, and optimizing data-driven strategies. 
+  Committed to continuous learning and delivering data solutions that help organizations enhance performance and meet their business objectives.
   <br><br>
-  Second description 
+  I invite you to explore my projects, resume, and portfolio to learn more about the impactful work I’ve done.  
   <br><br>
-  <a href="https://www.linkedin.com/in/himani-jaiswal18/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/himani-jaiswal18/" target="_blank">LinkedIn</a> | <a href="https://himanijaiswal59.wixsite.com/my-site-2" target="_blank">Portfolio</a> | <a href="https://himanijaiswal59.wixsite.com/1998" target="_blank">Project Portfolio</a> | <a href="mailto:himanijaiswal59@gmail.com">Contact Me</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 # Your Google Analytics tracking ID here
+
+# Optional: You can also include a more visually engaging section like a few highlights from your experience
+sections:
+  - title: "Core Competencies"
+    content: |
+      - **Data Analysis & Modeling**: SQL, Python, SPSS, Power BI, Tableau, Excel
+      - **Cloud Data Platforms**: Azure Synapse, Snowflake, AWS S3
+      - **Business Intelligence**: Data Warehousing, Data Visualization, Reporting
+      - **Database Management**: SQL Server, MySQL, ETL Processes, API Integration
+      - **Data Integrity & Security**: Advanced Data Encryption, Data Governance
+      - **Project Management**: Agile Methodology, Cross-functional Collaboration
+      <br><br>
+
+  - title: "Key Projects & Achievements"
+    content: |
+      ### [Bellabeat Smart Device Data Analysis Project](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)
+      Focused on analyzing user engagement data from Bellabeat's fitness devices. The project led to strategic recommendations for improving user interaction and marketing strategy, resulting in enhanced customer engagement and higher user retention rates.
+      
+      ### [US Super Store Sales Data Analysis](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)
+      Analyzed sales data from a US Super Store to provide actionable insights for strategic business expansion. Delivered interactive dashboards using Excel and Power BI, which helped guide decisions related to product placement and inventory management, supporting the store’s growth efforts.
+
+      ### [Fraud Detection & Prevention](https://himanijaiswal59.wixsite.com/himanibellabeatanaly)
+      A detailed analysis of financial transaction data to identify potential fraudulent behavior. Developed dashboards in Power BI to highlight trends, providing strategic recommendations that enhanced the fraud detection protocols at Sunlife Insurance.
+
+  - title: "About Me"
+    content: |
+      As a Data Analyst, I am passionate about using data to tell compelling stories and drive strategic decisions. Whether it's through developing dashboards, running detailed data analyses, or optimizing database management systems, I strive to deliver high-quality, actionable insights that improve business outcomes. I continuously seek to expand my knowledge and refine my skills to stay ahead of emerging trends in data analytics and business intelligence.  
+
+      When I'm not working on data projects, you can find me staying up-to-date with the latest trends in data science, analytics, and business intelligence. I also enjoy contributing to the data community by sharing knowledge through blogs and online courses.
+      
+      <br><br>
+      If you'd like to collaborate on a project or explore how I can help drive insights for your business, feel free to reach out!
+
+  - title: "Certifications & Skills"
+    content: |
+      ### Certifications
+      - **Google Analytics for Beginners**
+      - **Advanced Google Analytics**
+      - **Google Analytics Individual Qualification**
+      - **Tableau Essential Training**
+      - **SAS Programming 1: Essentials**
+      - **Nvivo Certification**
+      
+      ### Technical Skills
+      - **Programming Languages**: Python, SQL, Pandas
+      - **Data Platforms**: Azure Synapse, Snowflake, AWS S3, MySQL
+      - **Business Intelligence**: Power BI, Tableau, DAX
+      - **Data Management**: SQL Server, Excel (Power Query)
+      - **Project Management**: Agile, Cross-functional Team Leadership
+
+---
+
+# Personal Branding Section (Optional)
+sections:
+  - title: "Why Data Analytics?"
+    content: |
+      Data analytics has always fascinated me because it’s the key to unlocking hidden insights within complex datasets. Whether it's uncovering patterns in user behavior or optimizing business operations, the power of data-driven decision-making can transform industries. I'm driven by the challenge of turning raw data into strategic assets, using tools like SQL, Python, Power BI, and Tableau to visualize insights that matter.
+      <br><br>
+      My goal is to continue applying my skills to real-world challenges, delivering value through impactful data solutions. I'm always exploring new methodologies and learning about the latest innovations in the data space.
+
+  - title: "Get In Touch"
+    content: |
+      Whether you are interested in discussing a potential collaboration, exploring my projects, or just want to have a conversation about the latest in data analytics, feel free to reach out to me via email or LinkedIn.
+      <br><br>
+      **Email**: [himanijaiswal59@gmail.com](mailto:himanijaiswal59@gmail.com)
+      <br><br>
+      **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/himani-jaiswal18/)
+
